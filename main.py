@@ -49,7 +49,6 @@ while not buyButton:
         time.sleep(2)
         addToCartBtn[0].click()
         print("Ok it worked"*10)
-        print("CHECK!!!!"*100)
         print(addToCartBtn)
         buyButton = True
         time.sleep(3)
